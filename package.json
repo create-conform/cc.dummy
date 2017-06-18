@@ -1,0 +1,11 @@
+{
+  "name": "cc.dummy",
+  "version": "0.1.0",
+  "title": "Dummy Package",
+  "description": "Dummy package for development purposes.",
+  "bugs": null,
+  "license": "Apache-2.0",
+  "author": null,
+  "contributors": null,
+  "main": "dummy.js"
+}

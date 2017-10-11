@@ -1,11 +1,10 @@
 {
   "name": "cc.dummy",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "title": "Dummy Package",
   "description": "Dummy package for development purposes.",
-  "bugs": null,
   "license": "Apache-2.0",
-  "author": null,
-  "contributors": null,
-  "main": "dummy.js"
+  "pkx" : {
+    "main": "dummy.js"
+  }
 }
